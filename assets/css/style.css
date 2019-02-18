@@ -2066,7 +2066,7 @@ Footer Section style
 }
 
 .navbar-header button.active span:nth-of-type(3) {
-	margin: 10px 0;
+	margin: 30px;
 	transform: rotate(45deg);
 	transition: 0.3s
 }
